@@ -1,4 +1,4 @@
-name: CI
+name: CI-demo
 
 # This workflow is triggered on pushes and pull requests to the repository.
 on: [pull_request]
